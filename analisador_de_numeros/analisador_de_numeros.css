@@ -1,0 +1,30 @@
+body{
+    background-color: cornflowerblue;
+    font-family: Arial;
+    color: white;
+    text-align: center;
+}
+
+section{
+    color: black;
+    background-color: white;
+    width: 500px;
+    height: 250px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px gray
+}
+
+select{
+    width: 200px;
+    height: 150px;
+    padding: 20px;
+    text-align: center;
+}
+
+footer{
+    padding: 15px;
+}
+
+div#botao{visibility: hidden;}
