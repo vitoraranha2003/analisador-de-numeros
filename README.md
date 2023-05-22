@@ -1,1 +1,1 @@
-# analisador-de-numeros
+Digite números entre 1 e 100 que serão adicionados em uma lista e veja qual é o maior, o menor, a soma dos números, a média dos números e quantos números tem naquela lista. O programa conta com mensagens diferentes de acordo com o erro cometido, sendo elas de fácil compreensão para que o usuário não cometa essas falhas novamente.
